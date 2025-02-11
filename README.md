@@ -1,8 +1,3 @@
-# Audio-FileReader-WAV-OGG-Code
-Here’s a sample **README** file for your audio project:
-
----
-
 # Audio File Metadata Extractor (WAV & OGG)
 
 ## Overview
