@@ -79,5 +79,5 @@ Sample Rate: 44100
 - Add functionality to extract more detailed audio properties, such as duration, bitrate, etc.
 - Implement error handling for corrupted or unsupported files.
 
-Author
+## Author
 Marina Abdallah– https://github.com/Marina-Abdallah
